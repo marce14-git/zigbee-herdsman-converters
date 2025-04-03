@@ -13,7 +13,7 @@ export const definitions: DefinitionWithExtend[] = [
         fingerprint: [{modelID: "1", manufacturerName: "Shelly"}],
         model: "S4SW-001X16EU",
         vendor: "Shelly",
-        description: "1 gen 4",
+        description: "1 Gen 4",
         extend: [m.onOff({powerOnBehavior: false})],
     },
     {
